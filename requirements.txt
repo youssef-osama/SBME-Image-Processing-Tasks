@@ -1,0 +1,9 @@
+numpy==1.20.2
+opencv_python==4.6.0.66
+phantominator==0.6.4
+Pillow==9.4.0
+pydicom==2.3.0
+PyQt5==5.15.7
+pyqtgraph==0.12.3
+scikit_image==0.19.3
+skimage==0.0
